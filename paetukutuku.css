@@ -22,12 +22,13 @@
 .taitara {
   color: black;
 }
+input{
+  text-align: center;
+}
 .runga {
   margin: 0 auto;
   width: 100%;
   height: auto;
-  display: inline-block;
-  border: 2px solid plum;
   background: white;
   font-size: 17px;
 }
@@ -101,7 +102,7 @@ body {
   margin: 0;
 }
 .body-wrapper {
-  border: 2px solid palevioletred;
+
   justify-content: center;
   flex-direction: column;
   align-items: center;
@@ -111,22 +112,30 @@ body {
   justify-content: space-evenly;
   margin: 40px 0 40px 0;
   width: 100%;
-  height: 50vh;
+  height: 100vh;
   font-size: 17px;
 }
 .wahanga1 {
-  border: 2px solid black;
+  
   background-color: white;
   opacity: 0.7;
   width: 25%;
 }
+.Mexico{
+  width: 205.5px;
+  height: 123px;
+
+}
+.padre{
+  font-size: 16px;
+}
 .wh1,
 .wah1,
 .waha1 {
-  border: 2px solid palevioletred;
+  border: 2px solid black;
   margin: 50px 0 50px 0;
   color: black;
-  font-size: 18px;
+  font-size: 16px;
   
 }
 .wahanga2 {
@@ -134,31 +143,43 @@ body {
   opacity: 0.7;
   width: 25%;
 }
+.San{
+  width: 201.027px;
+  height: 140px;
+
+}
+.usa{
+  font-size: 16px;
+}
 .wh2,
 .wah2,
 .waha2 {
-  border: 2px solid palevioletred;
+  border: 2px solid black;
   margin: 50px 0 50px 0;
   color: black;
-  font-size: 18px;
+  font-size: 16px;
 }
 .wahanga3 {
-  border: 2px solid rgb(221, 235, 101);
   background-color: white;
   opacity: 0.7;
   width: 25%;
 }
+.marae{
+  width: 202.376px;
+  height: 120px;
+}
+.hei{
+  font-size: 16px;
+}
 .wh3,
 .wah3,
 .waha3 {
-  border: 2px solid palevioletred;
+  border: 2px solid black;
   margin: 50px 0 50px 0;
   color: black;
-  font-size: 18px;
+  font-size: 16px;
 }
-.footer {
-  border: 2px solid plum;
-}
+
 .bottom {
   display: flex;
   justify-content: space-evenly;
@@ -171,14 +192,9 @@ input[type=submit]{
 }
 .patene {
   align-items: center;
-  border: 2px solid black;
-  margin: 25px 0 25px 0;
-  
-}
-.patene1{
-  border: 2px solid black;
   margin: 25px 0 25px 0;
 }
+
 @font-face {
   font-family: Wrestlemania;
   src: url(WRESTLEMANIA);
