@@ -18,6 +18,7 @@
 .header:hover {
   font-size: 23px;
   opacity: 0.6;
+  background-color: antiquewhite;
 }
 .taitara {
   color: black;
