@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://ap-pics2.gotpoem.com/ap-pics/item/15224/299.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    margin: 0;
+  }
+  .body-wrapper {
+  
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .tinana {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px 0 40px 0;
+    width: 100%;
+    height: 100vh;
+    font-size: 17px;
+  }
+  .wahanga1 {
+    
+    background-color: white;
+    opacity: 0.7;
+    width: 25%;
+  }
+  .Mexico{
+    width: 205.5px;
+    height: 123px;
+  
+  }
+  .padre{
+    font-size: 16px;
+  }
+  .wh1,
+  .wah1,
+  .waha1 {
+    border: 2px solid black;
+    margin: 50px 0 50px 0;
+    color: black;
+    font-size: 16px;
+    
+  }
+  .wahanga2 {
+    background-color: white;
+    opacity: 0.7;
+    width: 25%;
+  }
+  .San{
+    width: 201.027px;
+    height: 140px;
+  
+  }
+  .usa{
+    font-size: 16px;
+  }
+  .wh2,
+  .wah2,
+  .waha2 {
+    border: 2px solid black;
+    margin: 50px 0 50px 0;
+    color: black;
+    font-size: 16px;
+  }
+  .wahanga3 {
+    background-color: white;
+    opacity: 0.7;
+    width: 25%;
+  }
+  .marae{
+    width: 202.376px;
+    height: 120px;
+  }
+  .hei{
+    font-size: 16px;
+  }
+  .wh3,
+  .wah3,
+  .waha3 {
+    border: 2px solid black;
+    margin: 50px 0 50px 0;
+    color: black;
+    font-size: 16px;
+  }
+  
